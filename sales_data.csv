@@ -1,0 +1,7 @@
+OrderID,Customer,Product,Amount,Date
+1001,Amit,Laptop,55000,2024-01-12
+1002,Ravi,Mobile,22000,2024-01-15
+1003,Neha,Tablet,18000,2024-01-20
+1004,Amit,Laptop,55000,2024-01-12
+1005,Suresh,Headphone,2500,2024-01-25
+,Manoj,Camera,35000,2024-01-30

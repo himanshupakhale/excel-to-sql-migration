@@ -27,5 +27,5 @@ Cleaned data successfully migrated to MySQL database.
 Notes
 This project was tested on a local MySQL environment.
 
-Author
+Author:
 Himanshu Pakhale

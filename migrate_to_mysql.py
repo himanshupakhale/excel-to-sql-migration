@@ -14,7 +14,7 @@ df = df.dropna(subset=["OrderID"])
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="your_password",
+    password="pass@123",
     database="sales_db"
 )
 
